@@ -46,7 +46,7 @@ The codebase computes a comprehensive suite of academic and financial metrics:
 * **Predictor Importance:** Advanced feature extraction including *Gradient $\times$ Input* methods for Neural Networks to open the "black box" of ML forecasts.
 * **Economic Value:** Annualized Returns, Volatility, Sharpe Ratio, Sortino Ratio, Max Drawdown, VaR/CVaR, and sub-period robustness checks during major market crashes (Dot-com, GFC, COVID-19, 2022 Inflation).
 
-## 📂 Repository Structure
+## Repository Structure
 ```text
 ├── data/                               # Folder for datasets (instructions inside)
 ├── Thesis_Implementation.ipynb         # Main Jupyter Notebook with full source code
