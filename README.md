@@ -51,4 +51,5 @@ The codebase computes a comprehensive suite of academic and financial metrics:
 ├── data/                               # Folder for datasets (instructions inside)
 ├── Thesis_Implementation.ipynb         # Main Jupyter Notebook with full source code
 ├── Thesis_Implementation.html          # Static HTML export of the executed notebook
+├── requirements.txt                    # Python dependencies
 └── README.md                           # This file
