@@ -21,8 +21,8 @@ The analysis evaluates a 50+ year timeframe (May 1973 – December 2024), rigoro
 
 ## Data Pipeline & Feature Engineering
 * **Asset Data:** FactSet Total and Price Returns.
-* **Macro Predictors:** The 37 macroeconomic variables from the Goyal-Welch (GWZ 2023) dataset [https://docs.google.com/spreadsheets/d/10_nkOkJPvq4eZgNl-1ys63PzhbnM3S2y/edit?gid=1060486139&pli=1&authuser=0].
-* **Risk Factors:** Fama-French 3-Factor Model (Mkt-RF, SMB, HML) [https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html]
+* **Macro Predictors:** The 37 macroeconomic variables from the Goyal-Welch (GWZ 2023) dataset.
+* **Risk Factors:** Fama-French 3-Factor Model (Mkt-RF, SMB, HML)
 * **Technical Features:** 20 custom engineered features (Momentum, Moving Averages, Volatility.
 * **Dimensionality:** A total of 57 predictors + 3 lagged Fama-French factors. All data is strictly lagged ($t-1$) and aligned to month-end to prevent look-ahead bias. Forward-fill (LOCF) is applied where necessary.
 
