@@ -39,7 +39,6 @@ Four distinct predictive architectures are implemented and compared against the 
 ## Portfolio Optimization (MVO)
 Return forecasts ($\mathbb{E}[y]$) are fed into a Mean-Variance Optimizer.
 * **Covariance Matrix ($\Sigma$):** Estimated using the robust **Ledoit-Wolf shrinkage** over a 60-month rolling window to ensure invertibility and mitigate estimation error.
-* **Risk Aversion ($\gamma$):** Set to 5.0.
 * **Setups Evaluated:**
   * **Unconstrained:** Long-only, fully invested.
   * **Realistic (Constrained):** Long-only, fully invested, maximum weight capped at 60% per asset, with an **Adaptive Hard Turnover Constraint** (capped at 20% in normal regimes, relaxed to 40% during high-volatility crisis periods).
