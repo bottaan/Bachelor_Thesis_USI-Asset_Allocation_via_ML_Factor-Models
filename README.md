@@ -9,7 +9,9 @@ Empirical implementation of a Bachelor's thesis at USI: forecasting multi-asset 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **Bachelor's Thesis in Economics, major in Finance** **Università della Svizzera Italiana (USI)** **Author:** Andrea Botta
+
 **Thesis Title:** *Asset Allocation via Machine Learning and Factor Models: An Empirical Evaluation of Portfolio Optimization Approaches*
+
 **Supervisor:** Prof. Patrick Gagliardini
 
 ## Project Overview
