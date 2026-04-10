@@ -53,7 +53,7 @@ The codebase computes a comprehensive suite of academic and financial metrics:
 ```text
 ├── data/                               # Folder for datasets (see README_DATA.md for licensing details)
 │   └── README_DATA.md                  # Instructions on data replication and proprietary restrictions
-├── 0-output-charts/                    # Folder containing all generated PDF plots and visualizations
+├── output-charts/                    # Folder containing all generated PDF plots and visualizations
 ├── Thesis_Implementation.ipynb         # Main Jupyter Notebook with full source code and execution pipeline
 ├── Thesis_Implementation.html          # Static HTML export of the executed notebook for quick preview
 ├── requirements.txt                    # Python dependencies required to run the notebook
