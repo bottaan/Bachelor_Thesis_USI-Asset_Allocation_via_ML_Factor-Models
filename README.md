@@ -8,7 +8,7 @@ Empirical implementation of a Bachelor's thesis at USI: forecasting multi-asset 
 [![PyTorch](https://img.shields.io/badge/PyTorch-enabled-orange.svg)](https://pytorch.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**Bachelor's degree in Economics, major in Finance** | **Università della Svizzera Italiana (USI)** 
+**Bachelor's degree in Economics, major in Finance** – **Università della Svizzera Italiana (USI)** 
 
 **Thesis Title:** *Asset Allocation via Machine Learning and Factor Models: An Empirical Evaluation of Portfolio Optimization Approaches*
 
